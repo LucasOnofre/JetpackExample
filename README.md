@@ -1,2 +1,3 @@
 # JetpackExample
-Kotlin + Jetpack
+
+A simple jetpack example in Kotlin.
